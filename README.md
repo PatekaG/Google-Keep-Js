@@ -21,5 +21,5 @@ Hi there! 👋 This is my **Google Keep clone** built with JavaScript. It’s a 
 
 ---
 
-I hope you enjoy using this project. If you have suggestions, bugs to report, or just want to chat.
+I hope you enjoy using this project. If you have suggestions, bugs to report, or just want to chat. **don’t hesitate to open an issue on GitHub**!
 
